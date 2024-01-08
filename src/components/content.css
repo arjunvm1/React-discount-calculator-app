@@ -1,0 +1,82 @@
+.app {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* background-color: rgb(249, 141, 0); */
+    -webkit-box-shadow:  2px -3px 71px 4px rgba(0,0,0,0.43);
+-moz-box-shadow:  2px -3px 71px 4px rgba(0,0,0,0.43);
+box-shadow:  2px -3px 71px 4px rgba(0,0,0,0.43);
+  }
+  
+  .container1 {
+    width: 600px;
+    margin: 0 auto;
+    /* background-color: rgb(255, 145, 0); */
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 0px 90px 2px rgba(0,0,0,0.43);
+-moz-box-shadow: -1px 0px 90px 2px rgba(0,0,0,0.43);
+box-shadow: -1px 0px 90px 2px rgba(0,0,0,0.43);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-family: 'Abril Fatface', serif;
+    font-weight: bolder;
+  }
+  
+  .output {
+    text-align: center;
+
+  }
+  
+  .before, .after {
+    margin-bottom: 10px;
+    font-family: 'Abril Fatface', serif;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .buttons button {
+    margin: 0;
+  }
+  
+  .input-form {
+    margin-top: 20px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+  }
+  
+  .saved {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Abril Fatface', serif;
+    font-weight: bolder;
+  }
+  
+  .saved h2 {
+    color: #28a745;
+    font-weight: bolder;
+
+  }
+
+
+  .input-form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+ 
+  
+  /* Add more styling as needed */
+  
